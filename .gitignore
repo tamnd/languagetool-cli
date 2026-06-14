@@ -1,0 +1,7 @@
+bin/
+dist/
+docs/public/
+docs/public-pages/
+docs/public-cf/
+*.test
+coverage.out
